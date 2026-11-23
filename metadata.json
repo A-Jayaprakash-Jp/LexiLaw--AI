@@ -1,0 +1,12 @@
+{
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "name": "LexiLaw AI - Judicial Assistant",
+  "description": "Global Judicial Assistant providing preliminary legal guidance, official portals, lawyer recommendations, and legal precedents.",
+  "prompt": "",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

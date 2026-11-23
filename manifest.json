@@ -1,0 +1,17 @@
+{
+  "name": "LexiLaw AI - Global Judicial Assistant",
+  "short_name": "LexiLaw AI",
+  "description": "Your Global Judicial AI Assistant for preliminary legal information and guidance.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}
